@@ -1,0 +1,21 @@
+
+@media all and (max-width: 1000px) {
+    .footer-menu {
+      width: 50%;
+      margin-bottom: 50px;
+    }
+}
+  
+@media all and (max-width: 670px) {
+    .footer-menu {
+      width: 100%;
+    }
+
+    .header-right {
+      display:  none;
+    }
+
+    .menu-icon {
+      display:  block !important;
+    }
+}
